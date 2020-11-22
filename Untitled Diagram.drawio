@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-22T15:47:39.037Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.11 Safari/537.36" etag="45uQGfM3tIXKW9zlVGAQ" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-22T16:06:37.507Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.11 Safari/537.36" etag="okt3vVXFgzOgjK14Kt6C" version="13.10.0" type="github">
   <diagram id="2uksuskUjcyCOV56l4W4" name="Page-1">
     <mxGraphModel dx="772" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XnlGGl6RaYM0I0zMV1Qg-8" value="hive" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="XnlGGl6RaYM0I0zMV1Qg-8" value="hive 数据仓库" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="260" y="400" width="50" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XnlGGl6RaYM0I0zMV1Qg-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.7;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="XnlGGl6RaYM0I0zMV1Qg-9" target="XnlGGl6RaYM0I0zMV1Qg-8">
@@ -50,8 +50,8 @@
         <mxCell id="XnlGGl6RaYM0I0zMV1Qg-14" value="模型训练引擎" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="225" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XnlGGl6RaYM0I0zMV1Qg-17" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#0e8088;fillColor=#b0e3e6;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.hard_disk;" vertex="1" parent="1">
-          <mxGeometry x="587.78" y="553" width="84.44" height="114" as="geometry" />
+        <mxCell id="XnlGGl6RaYM0I0zMV1Qg-17" value="磁盘" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#0e8088;fillColor=#b0e3e6;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.hard_disk;" vertex="1" parent="1">
+          <mxGeometry x="590" y="566.5" width="64.44" height="87" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
